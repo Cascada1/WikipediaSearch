@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+.ebgaramond { font-family: "EB Garamond"}
+.description { line-height: 1.5; font-family: "EB Garamond"; font-size: 15px; color: #cccccc; background-color: none}
+.description em { font-style: normal; font-size: 15px}
+body { background-color:
+  ; color:black;}
+
+body{
+  background-image: url("https://wallpaperscraft.com/image/surface_gray_spot_light_texture_50876_1920x1080.jpg");
+  background-repeat: repeat;
+}
+span { color:white; font-size: 150%;}
+
+input { color:black;
+        border-radius: 20px;}
+button { border-radius: 20px;}
+
+h2 { background-color:white;}
+
+p { font-size:125%; margin-left:25px;}
+
+img { margin-top: 100px; height:350px; width:450px;}
+
+
+
+#zz {
+    position: ;
+    display:inline-block;
+   
+    
+         }
+
+#zzz a {
+    color: black;   
+               }
+
+#zzz {
+    display: none;
+    position: absolute;
+      
+    background-color: gray;
+    border-radius: 10px;
+    box-shadow: 5px 20px 20px white;
+   border: 1px solid white;
+    padding: 10px  40px 0px 0px;
+                     }
+
+#zz:hover  #zzz {
+          display:block;
+                     }
